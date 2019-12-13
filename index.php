@@ -1,3 +1,3 @@
 <?php
-echo "WOWOWOWOW";
+echo "Minireto";
 ?>
